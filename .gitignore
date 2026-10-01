@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+
+# Temporary preview files
+assets/preview*.png
+
+# Wix backup files (optional, comment out if you want to keep it in git)
+# wix/

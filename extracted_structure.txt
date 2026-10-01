@@ -1,0 +1,290 @@
+text [TEXT]: Inicio | Dr Nicols De Vicen
+text [TEXT]: top of page
+button [START]: id=SKIP_TO_CONTENT_BTN
+text [TEXT]: Ir al contenido principal
+button [END]: 
+a [START]: testid=linkElement href=https://wixharmony.com/
+text [TEXT]: Creado con
+a [END]: 
+header [START]: id=comp-mb7ogqrp
+section [START]: id=comp-mb7ogqrp_r_comp-mb7ogqqn testid=section-container
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen
+img [START]: src=./wix nico sin preview_files/02892c_ccc5af7b4b7a4f0ca167b2813a415670~mv2.png alt=Dr.-Nicolás-de-Vicente-Muñoz-logo
+a [END]: 
+nav [START]: aria=Sitio
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen
+text [TEXT]: Inicio
+a [END]: 
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen/sobre-mi
+text [TEXT]: Sobre mí
+a [END]: 
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen/tratamientos
+text [TEXT]: Tratamientos
+a [END]: 
+button [START]: aria=Más páginas de Tratamientos
+button [END]: 
+button [START]: aria=Más páginas de Tratamientos
+button [END]: 
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen/tricologia
+text [TEXT]: Tricología
+a [END]: 
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen/cirugia-capilar
+text [TEXT]: Cirugía capilar
+a [END]: 
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen/tricologia
+text [TEXT]: Tricología
+a [END]: 
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen/cirugia-capilar
+text [TEXT]: Cirugía capilar
+a [END]: 
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen/resultados
+text [TEXT]: Resultados
+a [END]: 
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen/blog
+text [TEXT]: Blog
+a [END]: 
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen/contacto
+text [TEXT]: Contacto
+a [END]: 
+nav [END]: 
+nav [START]: aria=Sitio
+button [START]: aria=Menu testid=buttonContent
+button [END]: 
+nav [END]: 
+section [END]: 
+header [END]: 
+main [START]: id=PAGE_SECTIONSc1dmp
+section [START]: id=comp-mt6x6ucg testid=section-container
+p [START]: 
+text [TEXT]: Mi objetivo:
+text [TEXT]: cuidar la salud capilar y conseguir resultados naturales, proporcionados y duraderos.
+p [END]: 
+h3 [START]: 
+text [TEXT]: Tricología y
+text [TEXT]: cirugía capilar
+h3 [END]: 
+h3 [START]: 
+text [TEXT]: con criterio médico.
+h3 [END]: 
+a [START]: id=comp-mt6x8hvh testid=buttonContent href=https://www.doctoralia.es/nicolas-de-vicente-munoz/especialista-en-tricologia-medico-estetico-medico-general/madrid
+text [TEXT]: Reservar cita
+a [END]: 
+a [START]: id=comp-mt6x8i4w testid=buttonContent href=http://wa.me/message/G43BQO2EIHESF1
+text [TEXT]: Whatsapp
+a [END]: 
+img [START]: src=./wix nico sin preview_files/Dr Nicolas De Vicente - Hero.png alt=Dr Nicolas De Vicente - Hero.png
+section [END]: 
+section [START]: id=comp-mt6x6ucg1 testid=section-container
+h2 [START]: 
+text [TEXT]: Un diagnóstico antes que un tratamiento
+h2 [END]: 
+h2 [START]: 
+text [TEXT]: Antes de tratar, hay que entender.
+h2 [END]: 
+p [START]: 
+text [TEXT]: Cada paciente y cada alopecia son diferentes. Por eso, antes de plantear un tratamiento, es necesario entender qué está ocurriendo. El diagnóstico permite definir una estrategia personalizada y decidir qué opción es realmente adecuada para cada caso.
+p [END]: 
+p [START]: 
+text [TEXT]: Valoración individualizada de la salud capilar y del tipo de alopecia.
+p [END]: 
+h5 [START]: 
+text [TEXT]: Diagnóstico médico
+h5 [END]: 
+p [START]: 
+text [TEXT]: Tratamiento adaptado a las necesidades y objetivos de cada paciente.
+p [END]: 
+h5 [START]: 
+text [TEXT]: Plan personalizado
+h5 [END]: 
+p [START]: 
+text [TEXT]: Acompañamiento médico durante todo el proceso.
+p [END]: 
+h5 [START]: 
+text [TEXT]: Seguimiento
+h5 [END]: 
+section [END]: 
+section [START]: id=comp-mt76s54e testid=section-container
+h2 [START]: 
+text [TEXT]: TRATAMIENTOS
+h2 [END]: 
+p [START]: 
+text [TEXT]: Cada caso necesita un enfoque diferente. Conoce las opciones de tratamiento y descubre cuál puede ser la más adecuada para ti.
+p [END]: 
+h3 [START]: 
+text [TEXT]: TRICOLOGÍA
+h3 [END]: 
+img [START]: 
+p [START]: 
+text [TEXT]: Diagnóstico y tratamiento médico de la alopecia y otras alteraciones del cabello y cuero cabelludo.
+p [END]: 
+img [START]: src=./wix nico sin preview_files/ChatGPT Image 24 ago 2026, 14_14_17.png alt=ChatGPT Image 24 ago 2026, 14_14_17.png
+a [START]: id=comp-mt76s56k5 testid=buttonContent href=https://info032662.wixsite.com/dr-nicols-de-vicen/tricologia
+text [TEXT]: Ver tratamiento →
+a [END]: 
+h3 [START]: 
+text [TEXT]: CIRUGÍA CAPILAR
+h3 [END]: 
+p [START]: 
+text [TEXT]: Trasplante capilar personalizado para hombres y mujeres, con planificación médica y resultados naturales.
+p [END]: 
+img [START]: src=./wix nico sin preview_files/ChatGPT Image 24 ago 2026, 14_25_46.png alt=ChatGPT Image 24 ago 2026, 14_25_46.png
+a [START]: id=comp-mt76s5845 testid=buttonContent href=https://info032662.wixsite.com/dr-nicols-de-vicen/cirugia-capilar
+text [TEXT]: Ver tratamiento →
+a [END]: 
+h3 [START]: 
+text [TEXT]: CIRUGÍA BARBA Y CEJAS
+h3 [END]: 
+p [START]: 
+text [TEXT]: Restauración y diseño de barba y cejas mediante trasplante de unidades foliculares.
+p [END]: 
+img [START]: src=./wix nico sin preview_files/ChatGPT Image 24 ago 2026, 14_23_46.png alt=ChatGPT Image 24 ago 2026, 14_23_46.png
+a [START]: id=comp-mt76s58w5 testid=buttonContent href=https://info032662.wixsite.com/dr-nicols-de-vicen
+text [TEXT]: Ver tratamiento →
+a [END]: 
+h3 [START]: 
+text [TEXT]: RESTAURACIÓN CICATRICIAL
+h3 [END]: 
+p [START]: 
+text [TEXT]: Restauración capilar de zonas afectadas por cicatrices, traumatismos o intervenciones previas.
+p [END]: 
+img [START]: src=./wix nico sin preview_files/ChatGPT Image 24 ago 2026, 14_33_56.png alt=ChatGPT Image 24 ago 2026, 14_33_56.png
+a [START]: id=comp-mt76s59v3 testid=buttonContent href=https://info032662.wixsite.com/dr-nicols-de-vicen
+text [TEXT]: Ver tratamiento →
+a [END]: 
+section [END]: 
+section [START]: id=comp-mt7bkvk5 testid=section-container
+h2 [START]: 
+text [TEXT]: Resultados reales
+h2 [END]: 
+p [START]: 
+text [TEXT]: Casos reales de pacientes tratados mediante diagnóstico y planificación médica individualizada.
+p [END]: 
+img [START]: src=./wix nico sin preview_files/02892c_b742a48c1bba4b539ee5a634105efde6~mv2.png alt=after
+img [START]: src=./wix nico sin preview_files/02892c_80af5971865e44b6be6bf62e12b4b97b~mv2.png alt=before
+a [START]: href=https://apps.prpl.io/?ref=before-after
+a [END]: 
+img [START]: src=./wix nico sin preview_files/02892c_5aad86b557814110bc2dc4e8347dd500~mv2.jpg alt=after
+img [START]: src=./wix nico sin preview_files/02892c_7ca73fef7c5b45f38626c8f3a9d394b4~mv2.jpg alt=before
+a [START]: href=https://apps.prpl.io/?ref=before-after
+a [END]: 
+a [START]: id=comp-mt7cvkkw testid=buttonContent href=https://info032662.wixsite.com/dr-nicols-de-vicen/resultados
+text [TEXT]: VER MÁS RESULTADOS →
+a [END]: 
+section [END]: 
+section [START]: id=comp-mt6x6ucg5 testid=section-container
+h2 [START]: 
+text [TEXT]: La experiencia de nuestros pacientes
+h2 [END]: 
+p [START]: 
+text [TEXT]: “Mi experiencia con el Dr. Nicolás ha sido excelente. Destacaría especialmente su cercanía, el trato personalizado y la confianza que transmite durante todo el proceso.”
+p [END]: 
+p [START]: 
+text [TEXT]: I.DB. — Madrid
+p [END]: 
+p [START]: 
+text [TEXT]: "Nicolás demuestra con sus acciones su implicación con el paciente para que los tratamientos sean acordes y no falte de nada."
+p [END]: 
+p [START]: 
+text [TEXT]: A.B.C. — Madrid
+p [END]: 
+p [START]: 
+text [TEXT]: "La metodología es muy clara y los resultados son naturales. Es una clínica de alto nivel que valora la salud capilar de forma integral."
+p [END]: 
+p [START]: 
+text [TEXT]: Elena G. — Valencia
+p [END]: 
+a [START]: id=comp-mt7cz6wo testid=buttonContent href=https://info032662.wixsite.com/dr-nicols-de-vicen/tratamientos#Reviews_and_Credibility
+text [TEXT]: Ver más opiniones →
+a [END]: 
+section [END]: 
+section [START]: id=comp-mt6x6ucg8 testid=section-container
+h2 [START]: 
+text [TEXT]: Contacto
+h2 [END]: 
+h5 [START]: 
+text [TEXT]: Email
+h5 [END]: 
+p [START]: 
+text [TEXT]: Reserva tu cita con el Dr. Nicolás de Vicente Muñoz.
+p [END]: 
+p [START]: 
+text [TEXT]: info@drnicolasdevicente.com
+p [END]: 
+h5 [START]: 
+text [TEXT]: WhatsApp
+h5 [END]: 
+p [START]: 
+text [TEXT]: +34 638 18 82 29
+p [END]: 
+text [TEXT]: Nombre
+text [TEXT]: *
+text [TEXT]: Apellidos
+text [TEXT]: *
+text [TEXT]: Correo electrónico
+text [TEXT]: *
+text [TEXT]: Teléfono
+text [TEXT]: *
+button [START]: aria=Teléfono. Teléfono. Selecciona un código de país
+button [END]: 
+text [TEXT]: Motivo de consulta
+text [TEXT]: *
+button [START]: id=label-for-id_-10 aria=Motivo de consulta
+text [TEXT]: Selecciona un motivo
+button [END]: 
+text [TEXT]: Información adicional
+button [START]: 
+text [TEXT]: Solicitar valoración
+button [END]: 
+a [START]: id=comp-mt7dh3rn testid=buttonContent href=https://www.doctoralia.es/nicolas-de-vicente-munoz/especialista-en-tricologia-medico-estetico-medico-general/madrid
+text [TEXT]: AGENDA TU CONSULTA
+a [END]: 
+section [END]: 
+main [END]: 
+footer [START]: id=comp-kbgakxmn
+section [START]: id=comp-kbgakxmn_r_comp-kbgakgyt testid=section-container
+a [START]: testid=linkElement href=https://info032662.wixsite.com/dr-nicols-de-vicen
+img [START]: src=./wix nico sin preview_files/02892c_ccc5af7b4b7a4f0ca167b2813a415670~mv2.png alt=Dr.-Nicolás-de-Vicente-Muñoz-logo
+a [END]: 
+h6 [START]: 
+text [TEXT]: Síguenos
+h6 [END]: 
+nav [START]: aria=Barra de redes sociales
+a [START]: aria=Social Bar item testid=linkElement href=https://www.instagram.com/dr.devicentemunoz/
+a [END]: 
+a [START]: aria=Social Bar item testid=linkElement href=http://www.linkedin.com/
+a [END]: 
+nav [END]: 
+h6 [START]: 
+text [TEXT]: Ubicación
+h6 [END]: 
+p [START]: 
+text [TEXT]: Calle de la Castellana 200
+text [TEXT]: 28046 Madrid, España
+p [END]: 
+p [START]: 
+text [TEXT]: © 2026 Dr. Nicolás de Vicente Muñoz.
+text [TEXT]: Todos los derechos reservados.
+p [END]: 
+section [END]: 
+footer [END]: 
+a [START]: id=comp-mtb8cdci testid=buttonContent href=https://www.doctoralia.es/nicolas-de-vicente-munoz/especialista-en-tricologia-medico-estetico-medico-general/madrid
+text [TEXT]: AGENDA CITA
+a [END]: 
+text [TEXT]: bottom of page
+text [TEXT]: Chat with us
+img [START]: src=https://info032662.wixsite.com/dr-nicols-de-vicen
+h2 [START]: 
+text [TEXT]: Hi there
+h2 [END]: 
+text [TEXT]: Welcome Guest
+text [TEXT]: We typically reply within minutes
+text [TEXT]: James
+text [TEXT]: Hello! James here from support team. for Order status, kindly give your order number and enter, for anything else please type message and chat with me
+text [TEXT]: I need help
+button [START]: aria=Chat with us
+button [END]: 
+button [START]: aria=Back
+text [TEXT]: ‹
+button [END]: 
+button [START]: aria=Minimize
+button [END]: 
